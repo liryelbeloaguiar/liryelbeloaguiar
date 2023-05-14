@@ -32,9 +32,6 @@
   <a href="https://www.instagram.com/liryel_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "liryel.belo.702@ufrn.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/liryel-belo-216758188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![GitHub Snake Dark](https://github.com/liryelbeloaguiar/liryelbeloaguiar/blob/output/github-contribution-grid-snake.svg)
-
-      
+     
 </div>
 
