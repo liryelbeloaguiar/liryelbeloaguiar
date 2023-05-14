@@ -1,5 +1,6 @@
 ### Olá, me chamo Liryel Belo Aguiar! 👋
-
+<img width="18%" align="right" src="https://github.com/liryelbeloaguiar/Avatar_Do_Github/blob/main/20048676-101701039567_1-s5-v1.png" >
+</br>
 👩‍💻  Sou estudante de Analise e desenvolvimento de sistemas 
 
 🌏  Sou narutal do estado do Céara 
@@ -7,7 +8,6 @@
 🚩  Mas moro atualmente no Rio Grande do Norte 
 
 📧 liryel.belo.702@ufrn.edu.br
-
 
 </br>
 <div align="center">
