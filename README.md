@@ -6,6 +6,8 @@
 
 🚩  Mas moro atualmente no Rio Grande do Norte 
 
+📧 liryel.belo.702@ufrn.edu.br
+
 </br>
 <div align="center">
   <a href="https://github.com/liryelbeloaguiar">
