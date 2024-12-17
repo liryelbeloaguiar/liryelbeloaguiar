@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu me chamo Liryel Belo Aguiar</h1><h3 align="center">No momento sou desenvolvedora back end trainee</h3>
+<h1 align="center">Olá, eu me chamo Liryel Belo Aguiar</h1><h3 align="center">No momento sou desenvolvedora back end Junior</h3>
 
 <img width="18%" align="right" src="https://github.com/liryelbeloaguiar/Avatar_Do_Github/blob/main/20048676-101701039567_1-s5-v1.png" >
 </br>
