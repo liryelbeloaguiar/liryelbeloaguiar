@@ -5,7 +5,7 @@
 
 
 - 🌱 Estou me aperfeiçoando em **Java, Spring boot e SQL.**- 
-- 📫 Para entrar em contato comigo me mande um email: **liryel.belo.702@ufrn.edu.br**
+- 📫 Para entrar em contato comigo me mande um email: **liryelaguiar57@gmail.com**
 
 
 
